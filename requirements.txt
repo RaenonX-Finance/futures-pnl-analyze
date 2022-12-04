@@ -1,0 +1,14 @@
+# Data
+jupyter
+pandas
+matplotlib
+seaborn
+numpy
+
+# HTTP
+requests
+fastapi[all]
+uvicorn[standard]
+
+# Env
+environs
